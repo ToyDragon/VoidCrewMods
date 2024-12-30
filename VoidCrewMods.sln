@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RUEVoidCrewPatches", "RUEVoidCrewPatches\RUEVoidCrewPatches.csproj", "{93B06EF4-2F43-471B-B443-1B148B62270B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreEnhancements", "MoreEnhancements\MoreEnhancements.csproj", "{0380985B-49A5-47A5-9D28-F748D33AD81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B06EF4-2F43-471B-B443-1B148B62270B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B06EF4-2F43-471B-B443-1B148B62270B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B06EF4-2F43-471B-B443-1B148B62270B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B06EF4-2F43-471B-B443-1B148B62270B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0380985B-49A5-47A5-9D28-F748D33AD81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0380985B-49A5-47A5-9D28-F748D33AD81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0380985B-49A5-47A5-9D28-F748D33AD81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0380985B-49A5-47A5-9D28-F748D33AD81C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E3F8A05-3D8B-4309-9DF7-A5D33E55E1DF}
+	EndGlobalSection
+EndGlobal
